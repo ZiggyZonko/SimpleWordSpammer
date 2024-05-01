@@ -22,4 +22,4 @@ while(true) {
         }
 ```
 
-👋~Thanks for looking at my new project~👋
+👋--Thanks for looking at my new project--👋
